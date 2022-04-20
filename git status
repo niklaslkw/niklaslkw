@@ -1,0 +1,18 @@
+[1mdiff --git a/readme.md b/readme.md[m
+[1mindex e26b501..5521541 100644[m
+[1m--- a/readme.md[m
+[1m+++ b/readme.md[m
+[36m@@ -1,2 +1,10 @@[m
+ ## Readme-Datei[m
+[31m- Das ist meine allererste Readme-Datei[m
+\ No newline at end of file[m
+[32m+[m[32m Das ist meine allererste Readme-Datei[m
+[32m+[m
+[32m+[m
+[32m+[m[32m und das ist eine Änderung.[m
+[32m+[m
+[32m+[m
+[32m+[m
+[32m+[m[32m Das hier ist meine zweite Änderung.[m
+[41m+ [m
+\ No newline at end of file[m
